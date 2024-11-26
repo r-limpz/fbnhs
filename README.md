@@ -35,7 +35,7 @@ This is a **Senior High School Enrollment System** designed to automate and mana
 
 1. **Clone the Repository**:
   ```bash
-   git clone https://github.com/yourusername/enrollment-system.git
+   git clone https://github.com/r-limpz/fbnhs.git
   ```
 
 2. **Set Up the Local Server:**
